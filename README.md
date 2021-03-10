@@ -1,4 +1,4 @@
-# Exam-JS
+## Exam-JS
 
 # 1 Créer un tableau qui contient 10 plats différents
 
